@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Software Engineer",
+    "companyName": "Adobe Software Pvt Limited",
+    "location": "Bangalore, India",
+    "salary": 4500000,
+    "jobType": "Full-time (On-site)",
+    "jobDescription": "Design, develop, and maintain web applications. Collaborate with cross-functional teams to deliver high-quality products.",
+    "qualifications": "B.Tech in Computer Science, 3+ years experience with Javacript, Typescript, React and Node.js."
+  },
+  {
+    "title": "Data Analyst",
+    "companyName": "Data Insights Inc.",
+    "location": "Seattle, WA",
+    "salary": 7500000,
+    "jobType": "Part-time (On-site)",
+    "jobDescription": "Analyze datasets to discover patterns and actionable insights for the business. Prepare visualizations and reports for management.",
+    "qualifications": "Bachelor's in Statistics or related field, Proficiency in SQL and Power BI."
+  },
+  {
+    "title": "Content Writer",
+    "companyName": "Creative Ink",
+    "location": "Mumbai, India",
+    "salary": 1100000,
+    "jobType": "Part-time (Remote)",
+    "jobDescription": "Lead marketing campaigns, manage budgets, and oversee content strategy to increase brand presence.",
+    "qualifications": "Bachelor's degree, Strong writing skills, 2+ years experience in digital marketing and content writing."
+  },
+  {
+    "title": "Technical Support Engineer",
+    "companyName": "Atlassian",
+    "location": "Pune, India",
+    "salary": 1600000,
+    "jobType": "Full-time (Remote)",
+    "jobDescription": "Customer-facing problem solving, conduct usability testing, and support the product team with improvements.",
+    "qualifications": "Bachelor's degree in Technology, Strong Communication Skills, 3+ years of experience with SaaS Product."
+  },
+  {
+    "title": "HR Coordinator",
+    "companyName": "Bosch",
+    "location": "Gurugram, India",
+    "salary": 850000,
+    "jobType": "Full-time (On-site)",
+    "jobDescription": "Support talent acquisition, onboard new employees, and manage HR documentation.",
+    "qualifications": "Diploma/degree in HR, Familiarity with HR software."
+  },  {
+    "title": "Backend Developer",
+    "companyName": "Zostel",
+    "location": "Goa, India",
+    "salary": 900000,
+    "jobType": "Part-time (Remote)",
+    "jobDescription": "Skills in programming languages (like Python, Java, Node.js), databases (SQL and NoSQL), and API development (RESTful, GraphQL)",
+    "qualifications": "Bachelor's degree, Strong communication skills, 2+ years of experience with Backend Development."
+  },   {
+    "title": "UX/UI Designer",
+    "companyName": "Banna Creations",
+    "location": "New Delhi, India",
+    "salary": 140000,
+    "jobType": "Part-time (Remote)",
+    "jobDescription": "Create user-friendly interfaces, conduct usability testing, and support the product team with design assets.",
+    "qualifications": "Degree in Design or relevant field, Portfolio showcasing web/mobile designs"
+  },
+  {
+    "title": "Software Engineer - II",
+    "companyName": "Persistent Solutions",
+    "location": "Bangalore, India",
+    "salary": 5100000,
+    "jobType": "Full-time (On-site)",
+    "jobDescription": "Design, develop, and maintain applications. Collaborate with cross-functional teams to deliver high-quality products.",
+    "qualifications": "5+ years experience with Jave, Spring Boot and Kubernetes."
+  }
+]
