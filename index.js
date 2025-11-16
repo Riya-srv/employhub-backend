@@ -18,7 +18,10 @@ const corsOptions = {
 initializeDatabase();
 
 
-const jsonData = fs.readFileSync("./jobs.json", "utf-8");
+//const jsonData = fs.readFileSync("./jobs.json", "utf-8");
+const path = require("path");
+const jsonData = fs.readFileSync(path.join(__dirname, "jobs.json"), "utf-8");
+
 const jobs = JSON.parse(jsonData);
 
 function seedData(){
